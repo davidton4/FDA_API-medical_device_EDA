@@ -6,6 +6,7 @@ This exploratoy data analysis requests data from openFDA API and investigates th
 3. In Google Colab, in the top tool bar, select "Runtime" --> "Run all"'
 4. Each section will then display a dataframe and visualization
 
+
 Skills involved in this EDA:
 1. Data collection via API
 2. Data cleaning/preparation
