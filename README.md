@@ -1,4 +1,4 @@
-This exploratoy data analysis requests data from openFDA API and investigates that data for any medical device trends or insights. Data visualizations are used to better display the findings and reveal key statistics on FDA medical devices.
+This exploratoy data analysis requests data from openFDA API and investigates datasets for any medical device trends or insights. Data visualizations are used to better display the findings and reveal key statistics on FDA medical devices.
 
 *****FOR INTERACTIVE DATA VISUALIZATIONS, follow steps:
 1. Open "FDA API-Medical Device EDA.ipynb" file
@@ -10,7 +10,7 @@ This exploratoy data analysis requests data from openFDA API and investigates th
 Skills involved in this EDA:
 1. Data collection via API
 2. Data cleaning/preparation
-3. Exploratory data analysis and data visualizations\
+3. Exploratory data analysis and data visualizations
 
 Process:
 1. Use python requests library to make API call to openFDA API
