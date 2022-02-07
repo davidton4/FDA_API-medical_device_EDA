@@ -8,9 +8,9 @@ This exploratoy data analysis requests data from openFDA API and investigates da
 
 
 Skills involved in this EDA:
-1. Data collection via API
-2. Data cleaning/preparation
-3. Exploratory data analysis and data visualizations
+- Data collection via API
+- Data cleaning/preparation
+- Exploratory data analysis and data visualizations
 
 Process:
 1. Use python requests library to make API call to openFDA API
