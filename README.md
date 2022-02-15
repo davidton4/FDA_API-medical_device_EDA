@@ -3,8 +3,9 @@ This exploratoy data analysis requests data from openFDA API and investigates da
 *****FOR INTERACTIVE DATA VISUALIZATIONS, follow steps:
 1. Open "FDA API-Medical Device EDA.ipynb" file
 2. Select blue "Open in Colab" button located above script
-3. In Google Colab, in the top tool bar, select "Runtime" --> "Run all"'
-4. Each section will then display a dataframe and visualization
+3. Sign into Google account
+4. On the top tool bar, select "Runtime" --> "Run all"'
+5. Each section will then display a dataframe and visualization
 
 
 Skills involved in this EDA:
