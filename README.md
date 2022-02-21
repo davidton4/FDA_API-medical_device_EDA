@@ -1,4 +1,4 @@
-This exploratoy data analysis requests data from openFDA API and investigates datasets for any medical device trends or insights. Data visualizations are used to better display the findings and reveal key statistics on FDA medical devices.
+This exploratory data analysis requests data from openFDA API and investigates datasets for any medical device trends or insights. Data visualizations are used to better display the findings and reveal key statistics on FDA medical devices.
 
 *****FOR INTERACTIVE DATA VISUALIZATIONS, follow steps:
 1. Open the following link in a new tab/window: https://colab.research.google.com/drive/1RV9fvednj_5eJfit4Sde4sxBw-OUBiqY?usp=sharing
