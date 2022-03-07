@@ -6,7 +6,7 @@ This exploratory data analysis requests data from openFDA API and investigates d
 3. Each section will then display a dataframe and interactive visualization
 
 Skills involved in this EDA:
-- Data collection via API
+- Data extraction from REST API
 - Data cleaning/preparation
 - Exploratory data analysis and data visualizations
 
